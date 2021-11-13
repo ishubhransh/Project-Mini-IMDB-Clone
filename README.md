@@ -1,2 +1,3 @@
-# Project-Mini-IMDB-Clone
-This project was given to me as an assignment by Coding-Ninjas. I developed this project using HTML, CSS, JS.
+# IMDB
+
+Developed a simple IMDB Webpage by using HTML, CSS and JavaScript. 
